@@ -7,12 +7,11 @@ from io import StringIO
 
 
 #API access keys
-# consume_key = "J0Kwm6zBMQrO5iOX7dNtbgCjr"
-# consume_key_secret = "xvQlhLIEfBbf7uhHkZ5TyJCzpoFZEaDcpIQmBuTnHKmnZ9FAiT"
-# access_token = "450327555-IANlKvCE1WebcDcwbOPRRQqQWz8pd4O57QoDPajX"
-# access_token_secret = "rcGWZdMoyQ5GpvZSjDook5HmLU3NMopEevtebvlyiEajR"
-bear_token = "AAAAAAAAAAAAAAAAAAAAAAymUgEAAAAAmoKq0Mn1urEFinVFXh%2FrC6KEWpA%3DTMVdY934BqckxwobvLfKpJxItCnT4L6Ay5baWUT5opOaKvfzhc"
-#!!!!! your bear_token is wrong!
+# consume_key = ""
+# consume_key_secret = ""
+# access_token = ""
+# access_token_secret = ""
+bear_token = ""
 
 #authentification for API Access
 # auth = tweepy.OAuthHandler(consume_key, consume_key_secret)
